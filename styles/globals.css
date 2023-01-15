@@ -11,10 +11,10 @@ p {
 }
 
 .hero {
-    background-image: url('/images/hero.jpg');
+    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.7)), url('/images/hero-snow1.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    @apply h-[50vh] xl:h-[70vh];
+    @apply h-[60vh] xl:h-[80vh];
     width: 100%;    
 }

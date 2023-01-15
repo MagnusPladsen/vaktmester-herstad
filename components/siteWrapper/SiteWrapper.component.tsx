@@ -6,9 +6,9 @@ export default function SiteWrapper({
   children: React.ReactNode;
 }) {
   return (
-    <main className="px-[10vw] xl:px-[20vw]">
+    <main className="px-[10vw] xl:px-[20vw] ">
       {React.Children.map(children, (child) => (
-        <div className="py-20" key={Math.random()}>{child}</div>
+        <div className="py-10 xl:py-20" key={Math.random()}>{child}</div>
       ))}
     </main>
   );
