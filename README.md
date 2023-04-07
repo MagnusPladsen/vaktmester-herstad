@@ -8,9 +8,9 @@ Created for Herstad AS
 
 ## Get it up and running
 
-git clone https://github.com/MagnusPladsen/ozonbehandling
+`git clone https://github.com/MagnusPladsen/ozonbehandling`
 
-npm install
+`npm install`
 
-npm run dev
+`npm run dev`
 
