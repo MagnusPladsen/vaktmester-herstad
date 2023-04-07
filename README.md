@@ -4,7 +4,7 @@ https://www.ozonbehandling.no
 
 Created for Herstad AS
 
-##Get it up and running
+## Get it up and running
 
 git clone https://github.com/MagnusPladsen/ozonbehandling
 
